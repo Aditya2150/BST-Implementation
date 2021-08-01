@@ -1,7 +1,7 @@
 # BST-Implementation
-Binary Search Tree implementation in C++
+Binary Search Tree Implementation in C++
 
-Created a Library Template for Binary Search Tree in C++ which provides functionality such as-
+Created a Library Template for Binary Search Tree in C++ which provides the following functionalities-
 
 --> Insertion-
 
