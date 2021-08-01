@@ -10,7 +10,7 @@ Created a Library Template for Binary Search Tree in C++ which provides the foll
 2) Deletion-
 
         After Deletion of a node from the BST it is replaced by its Inorder Successor OR Inorder Predecessor,
-        which total depends on the user.
+        which total depends on the user's choice.
 3) Traversals-
 
         There are 3 Types of Traversals in a Tree-
