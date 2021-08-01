@@ -5,7 +5,7 @@ Created a Library Template for Binary Search Tree in C++ which provides the foll
 
 --> Insertion-
 
-        Insertion of a new Element is based on some basic properties of BST i.e. Element in the left subtree
+        Insertion of a new Element is based on properties of BST i.e. Element in the left subtree
         must me smaller than the root and the elements on the right subtree must be larger than root element. 
 --> Deletion-
 
